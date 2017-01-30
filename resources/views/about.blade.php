@@ -30,6 +30,7 @@
         @else
         smimage = "/assets/secondary-bg-lg.jpg";
         lgimage = "/assets/secondary-bg-lg.jpg";
+        lgimage = "/assets/secondary-bg-lg.jpg";
         @endif
         </script>
     </section>
