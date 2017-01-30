@@ -120,8 +120,8 @@ a.bsd-shareButton-twitter{
         smimage = "/assets/banners/{{$banner->photo}}";
         lgimage = "/assets/banners/{{$banner->photo}}";
         @else
-        smimage = "/assets/secondary-bg-lg-01.jpg";
-        lgimage = "/assets/secondary-bg-lg-01.jpg";
+        smimage = "/assets/secondary-bg-lg.jpg";
+        lgimage = "/assets/secondary-bg-lg.jpg";
         @endif
         </script>   
 </div>

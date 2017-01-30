@@ -4,13 +4,17 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 
+use App\Content;
+
 use App\Http\Requests;
 
 class AskController extends Controller
 {
     public function show(){
 
-		return view('ask');
+		$banner = Content::where('url', 'ask')->first();
+
+		return view('ask')->with(compact('banner'));
 
     }
 
