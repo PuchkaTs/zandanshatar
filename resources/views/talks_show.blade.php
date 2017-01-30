@@ -18,7 +18,7 @@
             </div>
             </header>
             <div style="clear: both;"></div>
-                            @if(isset($article->video))
+                @if(($article->video))
                 <div class="embed-video">
                     <iframe width="560" height="315" src="https://www.youtube.com/embed/{{$article->video}}" frameborder="0" allowfullscreen></iframe>
                 </div>  
