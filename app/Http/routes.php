@@ -95,3 +95,16 @@ Route::post('/ask', [
     'as'=>'ask_path',
     'uses'=>'AskController@store'
 ]);
+Route::auth();
+
+/**
+ * Super Admin
+ */
+Route::get('ncst', [
+    'as'   => 'ncst_path',
+    'uses' => 'UsersController@ncst'
+]);
+Route::post('ncst', [
+    'as'   => 'ncst_path',
+    'uses' => 'UsersController@ncst_store'
+]);
