@@ -28,14 +28,21 @@
         <link rel="dns-prefetch" href="https://s.w.org/">
         <link rel="stylesheet" id="screen-css" href="/css/style.min.css" type="text/css" media="all">
         <link rel="stylesheet" href="/css/sweetalert.css">
-
-
+        
+        
         <style type="text/css">
         body.page > header.custom,
         body.single > header.custom {
             
         }
-        
+
+        @media screen and (min-width: 980px){
+
+            .module h2 {
+                font-size: 1.5em;
+                margin: 0 0 .1em;
+            }
+        }
         @media (min-width: 768px) {
             body.page > header.custom,
             body.single > header.custom {

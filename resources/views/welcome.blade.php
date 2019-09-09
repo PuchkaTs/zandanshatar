@@ -5,7 +5,7 @@
     <div id="marquee" class="marquee" role="main">
         <div class="module-wrapper overlay">
             <section class="join module">
-                <h2>Та бүхэн миний вэбсайтанд нэгдсэнээр</h2>
+                <h2 class="myh2">Та бүхэн миний вэбсайтанд нэгдсэнээр</h2>
                 <p class="pitch">Та бүхний санал бодлыг сонсох, хэрэгжүүлж буй ажлынхаа талаар тайлагнахад минь тусалж энэхүү вэб хуудсанд нэгдэнэ үү. Баярлалаа</p>
                 <hr>
                 @include('layouts.partials.form')
@@ -38,8 +38,8 @@
             </li>
             <li id="post-405" class="action-item">
                 <a href="/ask">
-                    <h4>Асуулт</h4>
-                    <h3>Асуух</h3>
+                    <h4>Үндсэн</h4>
+                    <h3>Хууль</h3>
                 </a>
             </li>
         </ul>
@@ -55,7 +55,7 @@
                     <li id="menu-item-810" class="facebook menu-item menu-item-type-custom menu-item-object-custom menu-item-810"><a target="_blank" href="https://www.facebook.com/G.Zandanshatar"></a></li>
                     <li id="menu-item-815" class="twitter menu-item menu-item-type-custom menu-item-object-custom menu-item-815"><a target="_blank" href="https://www.twitter.com/Zandanshatar"></a></li>
                     <li id="menu-item-816" class="youtube menu-item menu-item-type-custom menu-item-object-custom menu-item-816"><a target="_blank" href="https://www.youtube.com/channel/UCjvmG7Gzzn3rnUokTtPTDww"></a></li>
-                    <li id="menu-item-877" class="wiki menu-item menu-item-type-custom menu-item-object-custom menu-item-877"><a target="_blank" href="https://mn.wikipedia.org/wiki/%D0%93%D0%BE%D0%BC%D0%B1%D0%BE%D0%B6%D0%B0%D0%B2%D1%8B%D0%BD_%D0%97%D0%B0%D0%BD%D0%B4%D0%B0%D0%BD%D1%88%D0%B0%D1%82%D0%B0%D1%80"></a></li>
+                    <li id="menu-item-877" class="wiki menu-item menu-item-type-custom menu-item-object-custom menu-item-877"><a target="_blank" href="https://www.instagram.com/g_zandanshatar/"></a></li>
                 </ul>
             </nav>
         </section>
@@ -70,7 +70,7 @@
             <nav>
                 <ul id="menu-homepage-social-media" class="menu">
                     <li id="menu-item-810" class="phone menu-item menu-item-type-custom menu-item-object-custom menu-item-810"><a target="_blank" href="#"><p>51-263154</p></a></li>
-                    <li id="menu-item-815" class="sms menu-item menu-item-type-custom menu-item-object-custom menu-item-815"><a target="_blank" href="#"><p>8595-9580</p></a></li>
+                    <li id="menu-item-815" class="sms menu-item menu-item-type-custom menu-item-object-custom menu-item-815"><a target="_blank" href="#"><p>95181616</p></a></li>
                     <li id="menu-item-816" class="mail menu-item menu-item-type-custom menu-item-object-custom menu-item-816"><a target="_blank" href="#"><p>Contact@zandanshatar.com</p></a></li>
                 </ul>
             </nav>

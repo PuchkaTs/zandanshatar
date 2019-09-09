@@ -14,7 +14,7 @@
                 <div class="navgroup">
                     <h3>Дагах</h3>
                     <ul id="menu-organize-1" class="menu">
-                        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-777"><a href="https://www.zandanshatar.mn">website</a></li>
+                        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-777"><a href="https://www.instagram.com/g_zandanshatar/">instagram</a></li>
                         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-811"><a href="https://www.facebook.com/G.Zandanshatar">facebook</a></li>
                         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-812"><a href="https://www.twitter.com/Zandanshatar">twitter</a></li>
                         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1873"><a href="https://www.youtube.com/channel/UCjvmG7Gzzn3rnUokTtPTDww">Youtube channel</a></li>
@@ -23,9 +23,9 @@
                 <div class="navgroup">
                     <h3>Холбогдох</h3>
                     <ul id="menu-social-media-1" class="menu">
-                        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15986"><a href="/">51-263154</a></li>
-                        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-778"><a target="_blank" href="/">8595-9580</a></li>
-                        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-806"><a target="_blank" href="/">Contact@zandanshatar.com</a></li>
+                        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15986"><a href="tel:54-263154">51-263154</a></li>
+                        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-778"><a href="tel:95181616">95181616</a></li>
+                        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-806"><a href="mailto:contact@zandanshatar.com">Contact@zandanshatar.com</a></li>
                     </ul>
                 </div>
             </nav>

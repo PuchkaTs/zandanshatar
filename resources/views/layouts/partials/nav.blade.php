@@ -18,7 +18,7 @@
                 <li id="menu-item-868" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-868"><a href="/issues">Зорьж буй ажлууд</a></li>
                 <li id="menu-item-12756" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12756"><a href="/news">МЭДЭЭ МЭДЭЭЛЭЛ</a></li>
                 <li id="menu-item-807" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-807"><a href="/talks">ЯРИЛЦЛАГА</a></li>
-                <li id="menu-item-818" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-818"><a href="/books">НОМ УНШИХ</a></li>
+                <!-- <li id="menu-item-818" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-818"><a href="/books">ҮНДСЭН ХУУЛЬ</a></li> -->
                 <li id="menu-item-808" class="btn menu-item menu-item-type-custom menu-item-object-custom menu-item-808"><a href="/contact">Холбоо барих</a></li>
             </ul>
         </nav>
@@ -33,7 +33,7 @@
                         <li id="menu-item-820" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-820"><a href="/issues">Зорьж буй ажлууд</a></li>
                         <li id="menu-item-869" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-869"><a href="/news">МЭДЭЭ МЭДЭЭЛЭЛ</a></li>
                         <li id="menu-item-15206" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15206"><a href="/talks">ЯРИЛЦЛАГА</a></li>
-                        <li id="menu-item-826" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-826"><a href="/books">НОМ УНШИХ</a></li>
+                        <!-- <li id="menu-item-826" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-826"><a href="/books">ҮНДСЭН ХУУЛЬ</a></li> -->
                         <li id="menu-item-3898" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3898"><a href="/contact">Холбоо барих</a></li>
                     </ul>
                 </div>
